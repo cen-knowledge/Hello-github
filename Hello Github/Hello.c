@@ -3,7 +3,7 @@
 void main()
 { 
    clrscr();
-   printf("Hello Github");
+   printf("Hello");
    
    getch();
 }  
